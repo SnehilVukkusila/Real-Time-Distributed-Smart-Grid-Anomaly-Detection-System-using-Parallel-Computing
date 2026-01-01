@@ -1,0 +1,8 @@
+pyspark==3.5.1
+dash
+dash-bootstrap-components
+pandas
+plotly
+confluent-kafka
+scikit-learn
+dash-daq
