@@ -53,8 +53,7 @@ The system architecture includes the following components:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/sulayam/energy-anomaly-detection.git
-cd energy-anomaly-detection
+
 ```
 
 ### Directory Structure
@@ -201,3 +200,4 @@ docker-compose logs app
 - **Fast and Scalable:** Linear time complexity makes it efficient for real-time processing.
 - **Robustness to Anomalies:** Detects anomalies effectively by isolating them rather than profiling normal data points.
 - **Minimal Parameter Tuning:** Simple setup makes it ideal for real-time systems where quick deployment is essential.
+
